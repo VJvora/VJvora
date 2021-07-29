@@ -1,3 +1,2 @@
 
-            document.write("Hello Vijay Vora");
-            alert("OK");
+    document.write("Hello Vijay from India");
